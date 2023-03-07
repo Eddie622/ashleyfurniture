@@ -1,12 +1,12 @@
 <?php
 
 /**
- * 	Plugin Name:	    Ashley Furniture
- * 	Description:	    Connects to the Ashley Furniture API and pulls product data for Woocommerce
- * 	Version: 		    1.0.0
- * 	Author: 		    Heriberto Torres
- * 	Author URI: 	    https://heribertotorres.com
- * 	Text Domain: 	    ashleyfurniture
+ *  Plugin Name:	    Ashley Furniture
+ *  Description:	    Connects to the Ashley Furniture API and pulls product data for Woocommerce
+ *  Version: 		    1.0.0
+ *  Author: 		    Heriberto Torres
+ *  Author URI: 	    https://heribertotorres.com
+ *  Text Domain: 	    ashleyfurniture
  *  License:            GPL v2 or later
  *  License URI:        https://www.gnu.org/licenses/gpl-2.0.html
  *  Update URI:         false
